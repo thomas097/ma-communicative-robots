@@ -27,7 +27,7 @@ Evaluation of the proposed methods is performed in two steps; a manual evaluatio
 
 ## Authors
 
-Piek Vossen
+Supervisor: Piek Vossen
 
 - Student 1: Thomas Bellucci
 - Student 2: Imme Glaudé
